@@ -23,6 +23,15 @@ This project makes use of the transform and imutils modules from pyimagesearch (
 
 <img src="https://github.com/andrewdcampbell/doc_scanner/blob/master/sample_images/dollar_bill.JPG" width="350"> <img src="https://github.com/andrewdcampbell/doc_scanner/blob/master/output/dollar_bill.JPG" width="350">
 
+### clone
+* clone 
+```
+git clone https://github.com/ren255/OpenCV_Document_Scanner
+```
+* install librarys
+```
+pip install -r requirements.txt
+```
 
 ### Usage
 ```
